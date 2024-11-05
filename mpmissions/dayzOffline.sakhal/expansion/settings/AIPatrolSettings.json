@@ -14,7 +14,7 @@
     "DamageReceivedMultiplier": -1.0,
     "ObjectPatrols": [
         {
-            "Name": "",
+            "Name": "HeliCrash",
             "Persist": 0,
             "Faction": "West",
             "Formation": "",
@@ -48,7 +48,7 @@
             "ClassName": "Wreck_UH1Y"
         },
         {
-            "Name": "",
+            "Name": "HeliCrash2",
             "Persist": 0,
             "Faction": "East",
             "Formation": "",
@@ -82,7 +82,7 @@
             "ClassName": "Wreck_Mi8_Crashed"
         },
         {
-            "Name": "",
+            "Name": "PoliceWreck",
             "Persist": 0,
             "Faction": "East",
             "Formation": "",
@@ -116,7 +116,7 @@
             "ClassName": "Land_Wreck_sed02_aban1_Police_DE"
         },
         {
-            "Name": "",
+            "Name": "PoliceWreck2",
             "Persist": 0,
             "Faction": "East",
             "Formation": "",
@@ -150,7 +150,41 @@
             "ClassName": "Land_Wreck_sed02_aban2_Police_DE"
         },
         {
-            "Name": "",
+            "Name": "PoliceSituation",
+            "Persist": 0,
+            "Faction": "East",
+            "Formation": "",
+            "FormationLooseness": 0.0,
+            "Loadout": "PoliceLoadout",
+            "Units": [],
+            "NumberOfAI": -3,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "LootingBehaviour": "",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "JOG",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 0,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 5.0,
+            "MaxSpreadRadius": 20.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "ClassName": "StaticPoliceSituation"
+        },
+        {
+            "Name": "ContamArea",
             "Persist": 0,
             "Faction": "East",
             "Formation": "",
@@ -184,7 +218,7 @@
             "ClassName": "ContaminatedArea_Static"
         },
         {
-            "Name": "",
+            "Name": "ContamAreaDyn",
             "Persist": 0,
             "Faction": "East",
             "Formation": "",
@@ -263,7 +297,7 @@
         {
             "Name": "Roaming-Rybnoe",
             "Persist": 1,
-            "Faction": "East",
+            "Faction": "West",
             "Formation": "",
             "FormationLooseness": 0.0,
             "Loadout": "PlayerSurvivorLoadout",
@@ -297,7 +331,7 @@
                 [
                     11944.1,
                     35.6782,
-                    12726
+                    12726.1
                 ]
             ]
         },
@@ -345,7 +379,7 @@
         {
             "Name": "Roaming-Nogovo",
             "Persist": 1,
-            "Faction": "East",
+            "Faction": "West",
             "Formation": "",
             "FormationLooseness": 0.0,
             "Loadout": "PlayerSurvivorLoadout",
