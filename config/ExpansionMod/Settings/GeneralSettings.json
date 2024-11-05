@@ -13,7 +13,7 @@
         "Interiors": [],
         "BuildingIvys": 0
     },
-    "EnableLamps": 3,
+    "EnableLamps": 0,
     "EnableGenerators": 0,
     "EnableLighthouses": 1,
     "EnableHUDNightvisionOverlay": 1,
