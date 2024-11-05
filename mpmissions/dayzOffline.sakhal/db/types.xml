@@ -556,10 +556,10 @@
         <usage name="Police"/>
     </type>
     <type name="AmmoBox_12gaSlug_10Rnd">
-        <nominal>9</nominal>
+        <nominal>15</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>6</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -570,10 +570,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="AmmoBox_22_50Rnd">
-        <nominal>35</nominal>
+        <nominal>45</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>28</min>
+        <min>35</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -587,10 +587,10 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_308WinTracer_20Rnd">
-        <nominal>4</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -600,10 +600,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="AmmoBox_308Win_20Rnd">
-        <nominal>4</nominal>
+        <nominal>12</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -613,10 +613,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="AmmoBox_357_20Rnd">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -631,10 +631,10 @@
         <value name="Tier4"/>
     </type>
     <type name="AmmoBox_380_35rnd">
-        <nominal>12</nominal>
+        <nominal>30</nominal>
         <lifetime>7200</lifetime>
         <restock>0</restock>
-        <min>7</min>
+        <min>22</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -644,10 +644,10 @@
         <usage name="Police"/>
     </type>
     <type name="AmmoBox_45ACP_25rnd">
-        <nominal>9</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>6</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -671,10 +671,10 @@
         <value name="Tier3"/>
     </type>
     <type name="AmmoBox_545x39_20Rnd">
-        <nominal>22</nominal>
+        <nominal>35</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>18</min>
+        <min>22</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -699,10 +699,10 @@
         <value name="Unique"/>
     </type>
     <type name="AmmoBox_556x45_20Rnd">
-        <nominal>15</nominal>
+        <nominal>30</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>22</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -725,10 +725,10 @@
         <usage name="Underground"/>
     </type>
     <type name="AmmoBox_762x39_20Rnd">
-        <nominal>4</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>15</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -749,10 +749,10 @@
         <usage name="Underground"/>
     </type>
     <type name="AmmoBox_762x54_20Rnd">
-        <nominal>4</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>16</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -761,10 +761,10 @@
         <usage name="Underground"/>
     </type>
     <type name="AmmoBox_9x19_25rnd">
-        <nominal>16</nominal>
+        <nominal>35</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>12</min>
+        <min>22</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -775,10 +775,10 @@
         <usage name="Police"/>
     </type>
     <type name="AmmoBox_9x39AP_20Rnd">
-        <nominal>12</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>9</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -844,7 +844,7 @@
         <nominal>60</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>45</min>
+        <min>60</min>
         <quantmin>10</quantmin>
         <quantmax>30</quantmax>
         <cost>100</cost>
@@ -857,10 +857,10 @@
         <value name="Tier2"/>
     </type>
     <type name="Ammo_308Win">
-        <nominal>30</nominal>
+        <nominal>40</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>24</min>
+        <min>30</min>
         <quantmin>10</quantmin>
         <quantmax>20</quantmax>
         <cost>100</cost>
@@ -892,10 +892,10 @@
         <value name="Tier3"/>
     </type>
     <type name="Ammo_357">
-        <nominal>0</nominal>
+        <nominal>20</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>15</min>
         <quantmin>10</quantmin>
         <quantmax>20</quantmax>
         <cost>100</cost>
@@ -910,10 +910,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Ammo_380">
-        <nominal>50</nominal>
+        <nominal>80</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>60</min>
         <quantmin>10</quantmin>
         <quantmax>20</quantmax>
         <cost>100</cost>
