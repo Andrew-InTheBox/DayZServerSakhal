@@ -1,9 +1,9 @@
 @echo off
 :start
 ::Name for the CMD window
-set serverName=ACBlocal
+set serverName=SakhalLocal
 ::Server files location
-set serverLocation="C:\Program Files (x86)\Steam\steamapps\common\DayZServerDITrader"
+set serverLocation="C:\Program Files (x86)\Steam\steamapps\common\DayZServerSakhal"
 ::Server Port
 set serverPort=2302
 ::Server config

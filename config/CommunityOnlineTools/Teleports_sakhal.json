@@ -1,0 +1,613 @@
+{
+    "Types": [
+        "ALL",
+        "Capital",
+        "City",
+        "Hill",
+        "Local",
+        "Marine",
+        "Village"
+    ],
+    "Locations": [
+        {
+            "Type": "Hill",
+            "Name": "Oдинокий вулкан",
+            "Position": [
+                10029.0,
+                0.0,
+                12087.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "City",
+            "Name": "Анива",
+            "Position": [
+                12895.0,
+                0.0,
+                7273.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Аян",
+            "Position": [
+                1243.0,
+                0.0,
+                3022.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Байково",
+            "Position": [
+                14571.0,
+                0.0,
+                9794.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Болотное",
+            "Position": [
+                5040.0,
+                0.0,
+                8667.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "City",
+            "Name": "Бурукан",
+            "Position": [
+                2706.0,
+                0.0,
+                6540.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Восток",
+            "Position": [
+                13910.0,
+                0.0,
+                8337.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Высокое",
+            "Position": [
+                11186.201171875,
+                0.0,
+                7965.83837890625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Горячево",
+            "Position": [
+                8774.0,
+                0.0,
+                10059.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Долиновка",
+            "Position": [
+                9831.0,
+                0.0,
+                9835.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Дудино",
+            "Position": [
+                6233.0,
+                0.0,
+                7245.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Елизаровo",
+            "Position": [
+                13492.0,
+                0.0,
+                5178.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Жупаново",
+            "Position": [
+                5741.0,
+                0.0,
+                12516.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Звездный никель",
+            "Position": [
+                12033.0,
+                0.0,
+                10323.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Итуруп",
+            "Position": [
+                10371.0,
+                0.0,
+                10700.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Кекра",
+            "Position": [
+                7188.0,
+                0.0,
+                4235.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Кетой",
+            "Position": [
+                5755.0,
+                0.0,
+                2066.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Ледяной гребень",
+            "Position": [
+                10756.0,
+                0.0,
+                8669.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Лесогоровка",
+            "Position": [
+                10969.0,
+                0.0,
+                9695.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Матросово",
+            "Position": [
+                14233.0,
+                0.0,
+                11586.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Мрак",
+            "Position": [
+                8443.0,
+                0.0,
+                1328.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Неран",
+            "Position": [
+                2666.0,
+                0.0,
+                9297.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "City",
+            "Name": "Ногово",
+            "Position": [
+                7814.0,
+                0.0,
+                7949.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Орлово",
+            "Position": [
+                10373.0,
+                0.0,
+                13348.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Острый",
+            "Position": [
+                11546.0,
+                0.0,
+                11669.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Capital",
+            "Name": "Петропавловск-Сахальский",
+            "Position": [
+                4749.0,
+                0.0,
+                10695.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Пик Волчий",
+            "Position": [
+                8196.0,
+                0.0,
+                11668.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Пик Восточный",
+            "Position": [
+                12835.0,
+                0.0,
+                9418.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Подгорное",
+            "Position": [
+                10985.0,
+                0.0,
+                13209.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Ракетная бухта",
+            "Position": [
+                4396.0,
+                0.0,
+                7269.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "City",
+            "Name": "Рудногорск",
+            "Position": [
+                13587.0,
+                0.0,
+                12152.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Рыбное",
+            "Position": [
+                12471.0,
+                0.0,
+                12667.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Сахалаг",
+            "Position": [
+                12163.0,
+                0.0,
+                9698.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Сахалская ГеоЭС",
+            "Position": [
+                8407.0,
+                0.0,
+                10204.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "City",
+            "Name": "Североморск",
+            "Position": [
+                9544.0,
+                0.0,
+                13656.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Сломанный",
+            "Position": [
+                6313.0,
+                0.0,
+                6454.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Советское",
+            "Position": [
+                6413.0,
+                0.0,
+                12783.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Солиско",
+            "Position": [
+                12653.0,
+                0.0,
+                2121.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Спутник",
+            "Position": [
+                7786.0,
+                0.0,
+                14802.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Сторож",
+            "Position": [
+                8776.0,
+                0.0,
+                12791.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Таранай",
+            "Position": [
+                9706.0,
+                0.0,
+                6584.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Тихое",
+            "Position": [
+                6260.0,
+                0.0,
+                8669.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Точка",
+            "Position": [
+                3755.0,
+                0.0,
+                14402.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Тройка",
+            "Position": [
+                9016.0,
+                0.0,
+                9268.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Тугур",
+            "Position": [
+                1738.0,
+                0.0,
+                6131.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Туманово",
+            "Position": [
+                8417.0,
+                0.0,
+                13646.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Тунгар",
+            "Position": [
+                12630.0,
+                0.0,
+                14135.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Тупой",
+            "Position": [
+                11898.0,
+                0.0,
+                11267.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Урuп",
+            "Position": [
+                1537.0,
+                0.0,
+                891.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Утичий",
+            "Position": [
+                8628.0,
+                0.0,
+                5146.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Утёс",
+            "Position": [
+                5453.0,
+                0.0,
+                14535.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Ушки",
+            "Position": [
+                10817.0,
+                0.0,
+                14631.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Черепаха",
+            "Position": [
+                835.0,
+                0.0,
+                11285.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Черный Мыс",
+            "Position": [
+                5084.0,
+                0.0,
+                3592.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Шантар",
+            "Position": [
+                2278.0,
+                0.0,
+                3413.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Шумное",
+            "Position": [
+                14383.0,
+                0.0,
+                8842.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Эвай",
+            "Position": [
+                7954.0,
+                0.0,
+                13512.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Южное",
+            "Position": [
+                10972.0,
+                0.0,
+                6323.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Ясная Поляна",
+            "Position": [
+                8116.0,
+                0.0,
+                9191.0
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Ясноморск",
+            "Position": [
+                6951.0,
+                0.0,
+                13331.0
+            ],
+            "Radius": 4.0
+        }
+    ]
+}
