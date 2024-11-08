@@ -90,7 +90,7 @@
             },
             {
                 "ClassName": "Chemlight_Green",
-                "Quantity": 1,
+                "Quantity": -1,
                 "Attachments": []
             }
         ],
