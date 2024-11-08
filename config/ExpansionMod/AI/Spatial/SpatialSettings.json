@@ -1,7 +1,7 @@
 {
     "Version": 20,
-    "Spatial_MinTimer": -1.0,
-    "Spatial_MaxTimer": 2.0,
+    "Spatial_MinTimer": 90.0,
+    "Spatial_MaxTimer": 120.0,
     "MinDistance": 120,
     "MaxDistance": 220,
     "HuntMode": 1,
@@ -15,7 +15,7 @@
     "GroupDifficulty": 0,
     "MinimumPlayerDistance": 0,
     "MaxSoloPlayers": 0,
-    "MinimumAge": 1,
+    "MinimumAge": 150,
     "ActiveHoursEnabled": 1,
     "ActiveStartTime": 5.5,
     "ActiveStopTime": 18.5,
@@ -34,7 +34,7 @@
     "Group": [
         {
             "Spatial_MinCount": 1,
-            "Spatial_MaxCount": 2,
+            "Spatial_MaxCount": 1,
             "Spatial_Weight": 23.0,
             "Spatial_Loadout": "BanditLoadout.json",
             "Spatial_Faction": "East",
@@ -47,7 +47,7 @@
         },
 		{
             "Spatial_MinCount": 1,
-            "Spatial_MaxCount": 2,
+            "Spatial_MaxCount": 1,
             "Spatial_Weight": 23.0,
             "Spatial_Loadout": "SurvivorLoadout.json",
             "Spatial_Faction": "East",
@@ -60,7 +60,7 @@
         },
 		{
             "Spatial_MinCount": 1,
-            "Spatial_MaxCount": 2,
+            "Spatial_MaxCount": 1,
             "Spatial_Weight": 23.0,
             "Spatial_Loadout": "HumanLoadout.json",
             "Spatial_Faction": "East",
@@ -73,7 +73,7 @@
         },
 		{
             "Spatial_MinCount": 1,
-            "Spatial_MaxCount": 2,
+            "Spatial_MaxCount": 1,
             "Spatial_Weight": 23.0,
             "Spatial_Loadout": "WestLoadout.json",
             "Spatial_Faction": "East",
