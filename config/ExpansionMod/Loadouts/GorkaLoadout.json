@@ -287,6 +287,106 @@
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
                             "Sets": []
+                        },
+                        {
+                            "ClassName": "BakedBeansCan",
+                            "Include": "",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "BrisketSpread",
+                            "Include": "",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "Matchbox",
+                            "Include": "",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "CombatKnife",
+                            "Include": "",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "CanOpener",
+                            "Include": "",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
                         }
                     ],
                     "ConstructionPartsBuilt": [],
@@ -556,6 +656,106 @@
                             "Quantity": {
                                 "Min": 0.2,
                                 "Max": 0.5
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "BakedBeansCan",
+                            "Include": "",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "BrisketSpread",
+                            "Include": "",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "Matchbox",
+                            "Include": "",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "CombatKnife",
+                            "Include": "",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "CanOpener",
+                            "Include": "",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
                             },
                             "Health": [
                                 {
@@ -849,6 +1049,106 @@
                             "InventoryCargo": [],
                             "ConstructionPartsBuilt": [],
                             "Sets": []
+                        },
+                        {
+                            "ClassName": "BakedBeansCan",
+                            "Include": "",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "BrisketSpread",
+                            "Include": "",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "Matchbox",
+                            "Include": "",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "CombatKnife",
+                            "Include": "",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "CanOpener",
+                            "Include": "",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
                         }
                     ],
                     "ConstructionPartsBuilt": [],
@@ -1118,6 +1418,106 @@
                             "Quantity": {
                                 "Min": 0.2,
                                 "Max": 0.5
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "BakedBeansCan",
+                            "Include": "",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "BrisketSpread",
+                            "Include": "",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "Matchbox",
+                            "Include": "",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "CombatKnife",
+                            "Include": "",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "CanOpener",
+                            "Include": "",
+                            "Chance": 0.5,
+                            "Quantity": {
+                                "Min": 0.0,
+                                "Max": 0.0
                             },
                             "Health": [
                                 {

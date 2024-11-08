@@ -13,10 +13,10 @@ def create_ammo_entry(classname):
     return {
         "ClassName": classname,
         "Include": "",
-        "Chance": 0.45,  # You can adjust this value
+        "Chance": 0.5,  # You can adjust this value
         "Quantity": {
-            "Min": 0.2,  # You can adjust this value
-            "Max": 0.5   # You can adjust this value
+            "Min": 0.0,  # You can adjust this value
+            "Max": 0.0   # You can adjust this value
         },
         "Health": [
             {

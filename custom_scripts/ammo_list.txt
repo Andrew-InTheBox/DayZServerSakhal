@@ -1,1 +1,1 @@
-BakedBeansCan, BrisketSpread, Matchbox, CombatKnife
+BakedBeansCan, BrisketSpread, Matchbox, CombatKnife, CanOpener
