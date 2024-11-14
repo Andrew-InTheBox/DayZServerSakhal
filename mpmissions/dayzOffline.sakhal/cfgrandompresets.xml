@@ -137,7 +137,7 @@
 				<item name="Battery9V" chance="0.2" />
 				<item name="Flashlight" chance="0.2" />
 		</cargo>
-		<cargo chance="0.25" name="ammoCivil">
+		<cargo chance="0.35" name="ammoCivil">
 				<item name="Ammo_380" chance="0.22" />
 				<item name="AmmoBox_380_35Rnd" chance="0.15" />
 				<item name="Ammo_9x19" chance="0.15" />
@@ -147,13 +147,13 @@
 				<item name="Ammo_762x54" chance="0.15" />
 				<item name="AmmoBox_762x54_20Rnd" chance="0.15" />
 		</cargo>
-		<cargo chance="0.35" name="ammoPolice">
+		<cargo chance="0.45" name="ammoPolice">
 				<item name="Ammo_9x19" chance="0.25" />
 				<item name="AmmoBox_9x19_25Rnd" chance="0.09" />
 				<item name="Ammo_545x39" chance="0.25" />
 				<item name="AmmoBox_545x39_20Rnd" chance="0.07" />
 		</cargo>
-		<cargo chance="0.35" name="ammoArmy">
+		<cargo chance="0.45" name="ammoArmy">
 				<item name="Ammo_380" chance="0.22" />
 				<item name="AmmoBox_380_35Rnd" chance="0.15" />
 				<item name="Ammo_9x19" chance="0.15" />

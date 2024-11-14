@@ -801,7 +801,7 @@
     </event>
     <event name="StaticPoliceCar">
         <nominal>10</nominal>
-        <min>4</min>
+        <min>5</min>
         <max>12</max>
         <lifetime>2500</lifetime>
         <restock>0</restock>
