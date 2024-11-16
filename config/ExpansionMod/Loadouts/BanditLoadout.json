@@ -189,6 +189,26 @@
                             "Sets": []
                         },
                         {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
                             "ClassName": "Ammo_762x39",
                             "Include": "",
                             "Chance": 0.45,
@@ -555,6 +575,26 @@
                             "Chance": 0.45,
                             "Quantity": {
                                 "Min": 0.6,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
                                 "Max": 1.0
                             },
                             "Health": [
@@ -951,6 +991,26 @@
                             "Sets": []
                         },
                         {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
                             "ClassName": "Ammo_762x39",
                             "Include": "",
                             "Chance": 0.45,
@@ -1317,6 +1377,26 @@
                             "Chance": 0.45,
                             "Quantity": {
                                 "Min": 0.6,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
                                 "Max": 1.0
                             },
                             "Health": [
@@ -1713,6 +1793,26 @@
                             "Sets": []
                         },
                         {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
                             "ClassName": "Ammo_762x39",
                             "Include": "",
                             "Chance": 0.45,
@@ -2079,6 +2179,26 @@
                             "Chance": 0.45,
                             "Quantity": {
                                 "Min": 0.6,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
                                 "Max": 1.0
                             },
                             "Health": [
@@ -2475,6 +2595,26 @@
                             "Sets": []
                         },
                         {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
                             "ClassName": "Ammo_762x39",
                             "Include": "",
                             "Chance": 0.45,
@@ -2841,6 +2981,26 @@
                             "Chance": 0.45,
                             "Quantity": {
                                 "Min": 0.6,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
                                 "Max": 1.0
                             },
                             "Health": [
@@ -3237,6 +3397,26 @@
                             "Sets": []
                         },
                         {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
                             "ClassName": "Ammo_762x39",
                             "Include": "",
                             "Chance": 0.45,
@@ -3603,6 +3783,26 @@
                             "Chance": 0.45,
                             "Quantity": {
                                 "Min": 0.6,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
                                 "Max": 1.0
                             },
                             "Health": [
@@ -3999,6 +4199,26 @@
                             "Sets": []
                         },
                         {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
                             "ClassName": "Ammo_762x39",
                             "Include": "",
                             "Chance": 0.45,
@@ -4365,6 +4585,26 @@
                             "Chance": 0.45,
                             "Quantity": {
                                 "Min": 0.6,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
                                 "Max": 1.0
                             },
                             "Health": [
@@ -4761,6 +5001,26 @@
                             "Sets": []
                         },
                         {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
                             "ClassName": "Ammo_762x39",
                             "Include": "",
                             "Chance": 0.45,
@@ -5127,6 +5387,26 @@
                             "Chance": 0.45,
                             "Quantity": {
                                 "Min": 0.6,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
                                 "Max": 1.0
                             },
                             "Health": [
@@ -5523,6 +5803,26 @@
                             "Sets": []
                         },
                         {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
                             "ClassName": "Ammo_762x39",
                             "Include": "",
                             "Chance": 0.45,
@@ -5889,6 +6189,26 @@
                             "Chance": 0.45,
                             "Quantity": {
                                 "Min": 0.6,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
                                 "Max": 1.0
                             },
                             "Health": [
@@ -6285,6 +6605,26 @@
                             "Sets": []
                         },
                         {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
                             "ClassName": "Ammo_762x39",
                             "Include": "",
                             "Chance": 0.45,
@@ -6651,6 +6991,26 @@
                             "Chance": 0.45,
                             "Quantity": {
                                 "Min": 0.6,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
                                 "Max": 1.0
                             },
                             "Health": [
@@ -7047,6 +7407,26 @@
                             "Sets": []
                         },
                         {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
                             "ClassName": "Ammo_762x39",
                             "Include": "",
                             "Chance": 0.45,
@@ -7413,6 +7793,26 @@
                             "Chance": 0.45,
                             "Quantity": {
                                 "Min": 0.6,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
                                 "Max": 1.0
                             },
                             "Health": [
@@ -7809,6 +8209,26 @@
                             "Sets": []
                         },
                         {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
                             "ClassName": "Ammo_762x39",
                             "Include": "",
                             "Chance": 0.45,
@@ -8175,6 +8595,26 @@
                             "Chance": 0.45,
                             "Quantity": {
                                 "Min": 0.6,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
                                 "Max": 1.0
                             },
                             "Health": [
@@ -8571,6 +9011,26 @@
                             "Sets": []
                         },
                         {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
                             "ClassName": "Ammo_762x39",
                             "Include": "",
                             "Chance": 0.45,
@@ -8937,6 +9397,26 @@
                             "Chance": 0.45,
                             "Quantity": {
                                 "Min": 0.6,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
                                 "Max": 1.0
                             },
                             "Health": [
@@ -9333,6 +9813,26 @@
                             "Sets": []
                         },
                         {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
                             "ClassName": "Ammo_762x39",
                             "Include": "",
                             "Chance": 0.45,
@@ -9699,6 +10199,26 @@
                             "Chance": 0.45,
                             "Quantity": {
                                 "Min": 0.6,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
                                 "Max": 1.0
                             },
                             "Health": [
@@ -10095,6 +10615,26 @@
                             "Sets": []
                         },
                         {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
                             "ClassName": "Ammo_762x39",
                             "Include": "",
                             "Chance": 0.45,
@@ -10461,6 +11001,26 @@
                             "Chance": 0.45,
                             "Quantity": {
                                 "Min": 0.6,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
                                 "Max": 1.0
                             },
                             "Health": [
@@ -10857,6 +11417,26 @@
                             "Sets": []
                         },
                         {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
                             "ClassName": "Ammo_762x39",
                             "Include": "",
                             "Chance": 0.45,
@@ -11223,6 +11803,26 @@
                             "Chance": 0.45,
                             "Quantity": {
                                 "Min": 0.6,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
                                 "Max": 1.0
                             },
                             "Health": [
@@ -11619,6 +12219,26 @@
                             "Sets": []
                         },
                         {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
                             "ClassName": "Ammo_762x39",
                             "Include": "",
                             "Chance": 0.45,
@@ -11985,6 +12605,26 @@
                             "Chance": 0.45,
                             "Quantity": {
                                 "Min": 0.6,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
                                 "Max": 1.0
                             },
                             "Health": [
@@ -12381,6 +13021,26 @@
                             "Sets": []
                         },
                         {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
                             "ClassName": "Ammo_762x39",
                             "Include": "",
                             "Chance": 0.45,
@@ -12747,6 +13407,26 @@
                             "Chance": 0.45,
                             "Quantity": {
                                 "Min": 0.6,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
                                 "Max": 1.0
                             },
                             "Health": [
@@ -13143,6 +13823,26 @@
                             "Sets": []
                         },
                         {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
                             "ClassName": "Ammo_762x39",
                             "Include": "",
                             "Chance": 0.45,
@@ -13524,6 +14224,26 @@
                             "Sets": []
                         },
                         {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
                             "ClassName": "Ammo_762x39",
                             "Include": "",
                             "Chance": 0.45,
@@ -13890,6 +14610,26 @@
                             "Chance": 0.45,
                             "Quantity": {
                                 "Min": 0.6,
+                                "Max": 1.0
+                            },
+                            "Health": [
+                                {
+                                    "Min": 1.0,
+                                    "Max": 1.0,
+                                    "Zone": ""
+                                }
+                            ],
+                            "InventoryAttachments": [],
+                            "InventoryCargo": [],
+                            "ConstructionPartsBuilt": [],
+                            "Sets": []
+                        },
+                        {
+                            "ClassName": "Ammo_556x45",
+                            "Include": "",
+                            "Chance": 1.0,
+                            "Quantity": {
+                                "Min": 1.0,
                                 "Max": 1.0
                             },
                             "Health": [

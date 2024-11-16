@@ -1,1 +1,1 @@
-BakedBeansCan, BrisketSpread, Matchbox, CombatKnife, CanOpener
+Ammo_556x45
